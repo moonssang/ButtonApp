@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ButtonApp</string>
+    <string name="Button">문현화 Button</string>
 </resources>
